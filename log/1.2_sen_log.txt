@@ -1,0 +1,2041 @@
+[NET] INIT NETWORK LAYER OK (with local port 42525).
+[NET] (using 0.00 loss and 0.00 error probability)
+[TRP] Initialisation réseau : OK.
+[TRP] Début d'exécution du protocole transport.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 0 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 1 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 2 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 3 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+[31m[NET] Can't start timer 5, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+[31m[NET] Can't start timer 6, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[31m[NET] Can't start timer 7, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet sent.
+Paquet 8 envoyé.
+[31m[NET] Can't start timer 8, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet sent.
+Paquet 9 envoyé.
+[31m[NET] Can't start timer 9, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 6 reçu.
+[NET] packet sent.
+Paquet 10 envoyé.
+[31m[NET] Can't start timer 10, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 7 reçu.
+[NET] packet sent.
+Paquet 11 envoyé.
+[31m[NET] Can't start timer 11, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 8 reçu.
+[NET] packet sent.
+Paquet 12 envoyé.
+[31m[NET] Can't start timer 12, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 9 reçu.
+[NET] packet sent.
+Paquet 13 envoyé.
+[31m[NET] Can't start timer 13, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 10 reçu.
+[NET] packet sent.
+Paquet 14 envoyé.
+[31m[NET] Can't start timer 14, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 11 reçu.
+[NET] packet sent.
+Paquet 15 envoyé.
+[31m[NET] Can't start timer 15, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 12 reçu.
+[NET] packet sent.
+Paquet 0 envoyé.
+[31m[NET] Can't start timer 0, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 13 reçu.
+[NET] packet sent.
+Paquet 1 envoyé.
+[31m[NET] Can't start timer 1, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 14 reçu.
+[NET] packet sent.
+Paquet 2 envoyé.
+[31m[NET] Can't start timer 2, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 15 reçu.
+[NET] packet sent.
+Paquet 3 envoyé.
+[31m[NET] Can't start timer 3, it is already running.[0m
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+[31m[NET] Can't start timer 4, it is already running.[0m
+[APP] Fin du fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet received.
+ACK 4 reçu.
+[TRP] Fin d'exécution du protocole Selective Repeat.

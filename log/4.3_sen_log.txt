@@ -1,0 +1,658 @@
+[NET] INIT NETWORK LAYER OK (with local port 42525).
+[NET] (using 0.00 loss and 0.00 error probability)
+[TRP] Initialisation réseau : OK.
+[TRP] Début d'exécution du protocole transport.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 0 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 1 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 2 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet sent.
+Paquet 3 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 0 reçu.
+[NET] packet sent.
+Paquet 4 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 1 reçu.
+[NET] packet sent.
+Paquet 5 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 2 reçu.
+[NET] packet sent.
+Paquet 6 envoyé.
+
+[APP] Lecture fichier.
+[NET] packet received.
+ACK 3 reçu.
+[NET] packet sent.
+Paquet 7 envoyé.
+[APP] Fin du fichier.
+[NET] packet received.
+ACK 4 reçu.
+[NET] packet received.
+ACK 5 reçu.
+[NET] packet received.
+ACK 6 reçu.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+Timeout du paquet 7, retransmission.
+[NET] packet sent.
+Timeout du paquet 0, retransmission.
+[NET] packet sent.
+Timeout du paquet 1, retransmission.
+[NET] packet sent.
+Timeout du paquet 2, retransmission.
+[NET] packet sent.
+Timeout du paquet 3, retransmission.
+[NET] packet sent.
+Timeout du paquet 4, retransmission.
+[NET] packet sent.
+Timeout du paquet 5, retransmission.
+[NET] packet sent.
+Timeout du paquet 6, retransmission.
+[NET] packet sent.
+T

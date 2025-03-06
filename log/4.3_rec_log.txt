@@ -1,0 +1,38 @@
+[NET] INIT NETWORK LAYER OK (with local port 42526).
+[NET] (using 0.00 loss and 0.00 error probability)
+[TRP] Initialisation réseau : OK.
+[TRP] Début d'exécution du protocole Selective Repeat.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 0 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 1 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 2 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 3 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 4 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 5 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[NET] packet sent.
+ACK 6 envoyé.
+[NET] packet received.
+[APP] Ecriture fichier.
+[APP] Fichier fermé.
+[31m[NET] loss LAST ACK[0m
+ACK 7 envoyé.
+[TRP] Fin d'exécution du protocole Selective Repeat.
