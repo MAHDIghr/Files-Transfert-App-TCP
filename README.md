@@ -20,11 +20,17 @@ Application de transfert de fichiers réalisée en C, utilisant les mécanismes 
 
 .
 ├── src/                # Code source en C
+
 ├── tests/              # Scripts de tests automatisés
+
 ├── wireshark/          # Captures réseau pour analyse
+
 ├── perf/               # Scripts Python pour tracer les performances
+
 ├── config.txt          # Paramètres de l'application
+
 ├── Makefile            # Compilation du projet
+
 └── README.md           # Documentation
 
 
